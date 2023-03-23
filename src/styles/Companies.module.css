@@ -1,0 +1,102 @@
+.companiesContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.companiesContainer > a {
+  display: flex;
+  height: 80px;
+  color: var(--white);
+  text-decoration: none;
+}
+
+.companiesContainer > a:nth-child(even) {
+  background-color: var(--blue-medium);
+}
+
+.arrowRight {
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.5;
+}
+
+.arrowRight > svg {
+  color: var(--white);
+  border: 2px solid var(--white);
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  padding: 2px;
+}
+
+.symbol {
+  width: 200px;
+  line-height: 80px;
+  padding-left: 20px;
+  font-size: 30px;
+  color: var(--blue-dark);
+}
+
+.info {
+  width: calc(100% - 250px);
+  opacity: 0.7;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.companiesHeaderContainer {
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: var(--blue-light);
+}
+
+.companiesHeaderContainer > svg {
+  font-size: 110px;
+  color: var(--white);
+}
+
+.companiesHeaderContainer > div {
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  padding-right: 60px;
+  line-height: 35px;
+}
+
+.companiesSearch {
+  width: 50%;
+  border-radius: 25px;
+  margin: 0 20px;
+  height: 30px;
+  background-color: var(--blue-dark);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.companiesSearch > svg {
+  width: 40px;
+}
+
+.companiesSearch > input {
+  width: calc(100% - 120px);
+  height: 30px;
+  border: none;
+  margin: 0;
+  padding: 0 10px;
+}
+
+.companiesSearch > button {
+  width: 100px;
+  height: 30px;
+  color: var(--white);
+  background-color: transparent;
+  border: none;
+}
