@@ -71,7 +71,7 @@ search bar, each company has a unique photo description and details
 ## 🚀 Video desctiption <a name="video"></a>
 ![big-tv-tv](https://user-images.githubusercontent.com/87722869/227230825-efab1ae6-148a-4566-8179-8130f6d0ad56.gif)
 
-[Video Link ](https://drive.google.com/file/d/1jlWpdQRa6LGTiEi5TrTjZWDQXUvlTVBj/view?usp=sharing)
+[Video Link ](https://www.loom.com/share/e408ccca725a4c318dfe5721d0447a9b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
