@@ -1,0 +1,41 @@
+.sector {
+  width: 50%;
+  height: 200px;
+  color: var(--white);
+  text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.4) 0 2px 4px, rgba(0, 0, 0, 0.3) 0 7px 13px -3px, rgba(0, 0, 0, 0.2) 0 -3px 0 inset;
+}
+
+.iconContainer {
+  height: 110px;
+  font-size: 40px;
+  color: var(--white);
+  position: relative;
+  opacity: 0.7;
+  border: 1px;
+}
+
+.iconContainer > svg:last-child {
+  color: var(--white);
+  border: 2px solid var(--white);
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 2px;
+}
+
+.infoContainer {
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+}

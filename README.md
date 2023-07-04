@@ -4,7 +4,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>ESO data portal app  README</b></h3>
+  <h3><b>Finance APP   README</b></h3>
 
 </div>
 
@@ -16,6 +16,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [Video](#video)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -30,8 +31,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Bookstore ] <a name="about-project"></a>
-**[Bookstore ]** is  a website that provide some environment organization and their duties to generate electricity 
+# 📖 [Finance APP  ] <a name="about-project"></a>
+**[Finance APP ]** is  a react app that display a list of stocks and services , when the user click a stock it display a list company that could be filterd by the 
+search bar, each company has a unique photo description and details 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,20 +56,25 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Display a list of organization  ]**
-- **[Display Display a list of tags on the Data Portal ]**
-- **[Display list of datasets on the Data Portal ]**
+- **[Display a list of stocks and services   ]**
+- **[Filter the companies by typing in the seach bar  ]**
+- **[Display individual information about a selected company  ]**
+- **[Backward arrow to return to the previous page ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[N/A]
-
-
-
-
+[Live demo Link ](https://dainty-sunshine-0d74b1.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Video desctiption <a name="video"></a>
+![big-tv-tv](https://user-images.githubusercontent.com/87722869/227230825-efab1ae6-148a-4566-8179-8130f6d0ad56.gif)
+
+[Video Link ](https://www.loom.com/share/e408ccca725a4c318dfe5721d0447a9b)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -136,7 +143,7 @@ You can deploy this project using:
 
 - [ ] **[Full navigation of the page ]**
 - [ ] **[Improve the UI/UX design  ]**
-- [ ] **[Add more Features of searching the organizations ]**
+- [ ] **[Add more Features of filtering the companies ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +164,7 @@ If you like this project please give it a start and share it with your friends.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to appreciate[Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
-
+I would like to thank [sakwadesignstudio](https://www.behance.net/sakwadesignstudio) for providing the greate design in Behance that we used as a reference to build this Application 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

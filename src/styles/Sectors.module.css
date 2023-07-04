@@ -1,0 +1,16 @@
+
+.sectorContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  row-gap: 20px;
+}
+
+.sectorsContainer {
+  display: flex;
+  flex-direction: row;
+  row-gap: 20px;
+  flex-wrap: wrap;
+  max-width: 1200px;
+}
